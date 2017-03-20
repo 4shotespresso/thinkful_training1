@@ -15,3 +15,5 @@ Instructions:
 2. Heat water and add poutine mix, stir frequently
 3. Plate fries, top with gravy, cold cheese curds
 4. Enjoy
+
+1 serving
