@@ -1,7 +1,7 @@
 #10minuterecipes
 
 Recipe Name: Poutine
-
+Servings: 1
 Ingredients list:
 
 1. Fresh cut fries
