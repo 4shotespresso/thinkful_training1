@@ -14,4 +14,5 @@ Instructions:
 1. Cut and double fry potatoes in vegetable oil
 2. Heat water and add poutine mix, stir frequently
 3. Plate fries, top with gravy, cold cheese curds
-4. Enjoy
+4. Add meat
+5. Enjoy
